@@ -26,9 +26,7 @@
 FinSight_BI/
 ├── 📁 config/               # Configuration files
 ├── 📁 data/                 # Data management
-│   ├── raw/                 # Original datasets
-│   ├── processed/           # Cleaned and transformed data
-│   └── exports/             # Generated reports and exports
+│   ├── bank.csv                 # Original dataset
 ├── 📁 src/                  # Source code
 │   ├── etl/                 # Extract, Transform, Load pipeline
 │   ├── analytics/           # Business intelligence calculations
@@ -36,9 +34,7 @@ FinSight_BI/
 │   ├── models/              # Machine learning models
 │   └── utils/               # Utility functions
 ├── 📁 tests/                # Unit and integration tests
-├── 📁 docs/                 # Documentation and reports
 ├── 📁 notebooks/            # Jupyter notebooks for analysis
-└── 📁 deployment/           # Deployment configurations
 ```
 
 ## 🚀 Key Features
