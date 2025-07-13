@@ -225,28 +225,6 @@ python -m pytest tests/test_dashboard.py   # Dashboard component tests
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📞 Support
-
-- **Technical Issues**: Create an issue in the repository
-- **Business Questions**: Contact the BI team
-- **Documentation**: Check `/docs/` directory
-- **Training**: Schedule sessions with the BI team
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🏆 Team
-
-- **BI Analysts**: Data analysis, requirement gathering, user testing
-- **BI Engineers**: ETL development, dashboard creation, system maintenance
-- **Data Scientists**: Machine learning models, predictive analytics
-- **DevOps Engineers**: Deployment, monitoring, infrastructure management
 
 ---
-
-**Version**: 1.0.0  
-**Last Updated**: July 2025  
-**Maintainer**: FinSight BI Team
-
 *Transforming banking data into actionable business insights* 🎯
